@@ -21,7 +21,8 @@ public class DBController {
 	//%project%/bin/SqliteDatabase.db
 	//jdbc:sqlite::memory: in memory
 	//jdbc:sqlite://home//jxhou//VedioStorage.db
-	private String dbURL="jdbc:sqlite://C://Users//hj940//OneDrive//VedioStorage.db";
+	//jdbc:sqlite://C://Users//hj940//OneDrive//VedioStorage.db
+	private String dbURL="jdbc:sqlite://home//jxhou//VedioStorage.db";
 	private String userName="VSMSDBA";
 	private String userPwd="vsms";
 	public DBController() {
