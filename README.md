@@ -10,7 +10,7 @@ The server-side of my video recording app.
 
 Ironically, the most obvious bug is the mis-spelling 'vedio'.
 
-It exists in everywhere. And shame on me, I don't want to chang it at all
+It exists in everywhere. And shame on me, I don't want to correct it at all
 
 - Change code from java to python
 - Switch SQLite DB to MongoDB Atlas DB (Free of charge, easy to connect globally)
