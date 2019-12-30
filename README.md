@@ -3,7 +3,7 @@
 ## Requirement
 
 The server-side of my video recording app.
-- Synv and send back all the current video info.
+- Sync and send back all the current video info.
 - Connecting DB
 
 ## TODO
